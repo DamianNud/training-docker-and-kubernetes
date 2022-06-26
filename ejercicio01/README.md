@@ -1,4 +1,6 @@
-**Instrucciones:**
+# Ejercicio 1
+
+## Instrucciones
 
 Ejecutar el siguiente comando para hacer funcionar el servidor NGINX con Docker usando la página personalizada:
 

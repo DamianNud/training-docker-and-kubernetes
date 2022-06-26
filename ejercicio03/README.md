@@ -1,4 +1,6 @@
-**Instrucciones:**
+# Ejercicio 3
+
+## Instrucciones
 
 Para ver el contenido de las imágenes:
 

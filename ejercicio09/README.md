@@ -2,11 +2,11 @@
 
 ## Instrucciones
 
-Iniciar deployment:
+Iniciar el deployment:
 
 `$ kubectl apply -f deployment.yml`
 
-Al listar los todos los componentes:
+Al listar todos los componentes se puede ver lo siguiente:
 
 ```
 NAME                           READY   STATUS    RESTARTS       AGE

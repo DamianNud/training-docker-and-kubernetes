@@ -1,2 +1,1 @@
-# training-docker-and-kubernetes
-Training Docker &amp; Kubernetes
+# Training Docker &amp; Kubernetes

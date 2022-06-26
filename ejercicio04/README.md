@@ -1,4 +1,6 @@
-**Instrucciones:**
+# Ejercicio 4
+
+## Instrucciones
 
 Generar la imagen:
 

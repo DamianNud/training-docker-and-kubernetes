@@ -1,4 +1,6 @@
-**Respuestas:**
+# Ejercicio 5
+
+## Respuestas
 
 - **HEALTHCHECK:** Esta instrucción le dice a Docker como testear un contenedor para verificar que todavía se encuentra en funcionamiento. Puede detectar casos como el de un servidor web atascado en un _loop_ infinito sin poder manejar nuevas conexiones, aunque el proceso del servidor siga corriendo.
 

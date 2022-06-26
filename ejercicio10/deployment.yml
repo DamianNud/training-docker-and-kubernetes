@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kubetestbot
+  labels:
+    app: kubetestbot
+spec:
+  selector:
+    matchLabels:
+      app: kubetestbot
+  template:
+    metadata:
+      labels:
+        app: kubetestbot
+    spec:
+      containers:
+        - name: kubetestbot
+          image: nicopaez/telegrambot:0.0.7
+          env:
+            - name: TELEGRAM_TOKEN
+              value: <A COMPLETAR>

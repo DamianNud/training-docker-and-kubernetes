@@ -1,4 +1,6 @@
-**Respuestas:**
+# Ejercicio 7
+
+## Respuestas
 
 - Tanto desde el archivo `docker-compose-jobvacancy.yml` como con el comando `docker ps` se puede ver que se están ejecutando dos contenedores.
 

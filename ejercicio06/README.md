@@ -1,4 +1,6 @@
-**Instrucciones:**
+# Ejercicio 6
+
+## Instrucciones
 
 Link de la imagen:
 

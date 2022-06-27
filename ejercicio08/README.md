@@ -13,6 +13,6 @@ Accediendo a _localhost:8080/health_ se puede ver el cambio desde el navegador:
 {"host":"46b932d4ec68","loadavg":[0.14794921875,0.29736328125,0.2734375],"freemem":7907905536,"appversion":"1.0.0"}
 ```
 
-También es posible agregar un argumento para aumentar la cantidad de replicas:
+Eliminar todos los contenedores:
 
-`$ docker-compose up --scale passwordapi=2`
+`$ docker-compose rm -f`

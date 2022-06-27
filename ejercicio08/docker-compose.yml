@@ -7,10 +7,13 @@ services:
     ports:
       - "8080:80"
     depends_on:
-      - passwordapi
-  passwordapi:
+      - passwordapi_1
+      - passwordapi_2
+  passwordapi_1:
     image: nicopaez/password-api
-    deploy:
-      replicas: 2
-    expose:
-      - "3000"
+    ports:
+      - "3001:3000"
+  passwordapi_2:
+    image: nicopaez/password-api
+    ports:
+      - "3002:3000"
